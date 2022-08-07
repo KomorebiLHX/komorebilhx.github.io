@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "About me"
 title_separator          : "-"
-name                     : &name "Hengxu Lin"
-description              : &description "Interested in NLP, especially Diaologue System and Emotion Recognition."
+name                     : &name "Lin Hengxu"
+description              : &description "Interested in NLP, especially Dialogue System."
 url                      : https://komorebilhx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "komorebilhx/komorebilhx.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hengxu Lin"
   avatar           : "avatar.jpg"
-  bio              : "Interested in NLP, especially Dialogue System and Emotion Recognition."
+  bio              : "Interested in NLP, especially Dialogue System."
   location         : "Shanghai"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
