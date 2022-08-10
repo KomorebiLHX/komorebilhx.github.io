@@ -27,7 +27,7 @@ Professional experience
   * Used batch softmax loss, adding real negative examples and other methods to debias hot articles in the recall stage, CTR+0.3% on the basis of effectively reducing the ratio of hot articles.
 * **CETHIK Group Corporation, *NLP Research Intern***
   * Nov. in 2020-Apr. in 2021
-  * Participated in the Key R&D Project of Zhejiang Province "Artificial Intelligence-based Digital Diagnosis and System Development", and developed a medical dialogue system for ophthalmic diseases.
+  * Participated in the Key R&D Project of Zhejiang Province "Artificial Intelligence-based Digital Diagnosis and System Development", developed a medical dialogue system for ophthalmic diseases.
   * Used Scrapy to get ophthalmic entity information and relationship information from website, used Neo4j to build a medical knowledge graph, and built a simple dialogue system on the graph.
   
 
